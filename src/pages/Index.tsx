@@ -26,7 +26,7 @@ const Index = () => {
     }
   };
 
-  const whatsappNumber = "59898123456"; // Placeholder - actualizar con número real
+  const whatsappNumber = "59897250021";
   const whatsappMessage = "Hola La Panchoneta, quiero consultar por mi evento";
 
   return (
